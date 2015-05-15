@@ -64,7 +64,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color:#01b2fe;
+  color:#e03737;
 }
 
 ::-moz-selection  {
@@ -205,7 +205,6 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	/*background-color: #A10;*/
 	background-color: #A10
 	min-height: 550px;
 	padding-top: 100px;
