@@ -89,6 +89,7 @@ USE_SOUTH = True
 #                ('Full Name', 'anotheremail@example.com'))
 ADMINS = (
     # ('Your Name', 'your_email@domain.com'),
+    brad@bradleybarnes.me,
 )
 MANAGERS = ADMINS
 
